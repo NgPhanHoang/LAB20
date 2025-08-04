@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "689037aebdc94d006a333ff6"
+  },
+  "name": "Laptop",
+  "price": 1200,
+  "category": "Electronics"
+},
+{
+  "_id": {
+    "$oid": "689037aebdc94d006a333ff7"
+  },
+  "name": "Shirt",
+  "price": 30,
+  "category": "Clothing"
+},
+{
+  "_id": {
+    "$oid": "689037aebdc94d006a333ff8"
+  },
+  "name": "Book",
+  "price": 15,
+  "category": "Education"
+}]

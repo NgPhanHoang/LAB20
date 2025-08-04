@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "689037cabdc94d006a333ff9"
+  },
+  "orderId": "ORD001",
+  "customerName": "Nguyen Van An",
+  "orderDate": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "totalAmount": 1500
+},
+{
+  "_id": {
+    "$oid": "689037cabdc94d006a333ffa"
+  },
+  "orderId": "ORD002",
+  "customerName": "Tran Thi Ba",
+  "orderDate": {
+    "$date": "2025-08-02T00:00:00.000Z"
+  },
+  "totalAmount": 300
+}]

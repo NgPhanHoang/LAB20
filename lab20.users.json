@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "689037f3bdc94d006a333ffb"
+  },
+  "name": "Alice",
+  "email": "alice@example.com",
+  "age": 31
+},
+{
+  "_id": {
+    "$oid": "689037f3bdc94d006a333ffd"
+  },
+  "name": "Charlie",
+  "email": "charlie@example.com",
+  "age": 35
+},
+{
+  "_id": {
+    "$oid": "689037f3bdc94d006a333ffe"
+  },
+  "name": "David",
+  "email": "david@example.com",
+  "age": 28
+},
+{
+  "_id": {
+    "$oid": "689037f3bdc94d006a333fff"
+  },
+  "name": "Eva",
+  "email": "eva@example.com",
+  "age": 42
+}]
